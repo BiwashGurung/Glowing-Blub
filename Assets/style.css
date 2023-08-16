@@ -54,3 +54,9 @@ img#bulb-on{
       opacity: 1;
     }
   }
+  .btn{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
